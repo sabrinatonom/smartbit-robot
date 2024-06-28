@@ -1,0 +1,42 @@
+{
+    "login": {
+        "account": {
+            "name": "Dominic Toreto",
+            "email": "dominic@toreto.com.br",
+            "cpf": "39452435054"
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Sabrina Tonom",
+            "month": "12",
+            "year": "2030",
+            "cvv": "123"
+        }
+    },
+    "update": {
+        "account": {
+            "name": "Dominic Toreto",
+            "email": "dominic@toreto.com.br",
+            "cpf": "35535361011",
+            "weight": 70,
+            "height": 177
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Dominic Toreto",
+            "month": "12",
+            "year": "2030",
+            "cvv": "123"
+        }
+    }
+}

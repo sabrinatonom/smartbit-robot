@@ -1,0 +1,78 @@
+{
+    "create": {
+        "account": {
+            "name": "Paulo Cintura",
+            "email": "paulo@cintura.com.br",
+            "cpf": "1852857099"
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Paulo Cintura",
+            "month": "12",
+            "year": "2030",
+            "cvv": "123"
+        }
+    },
+    "duplicate": {
+        "account": {
+            "name": "Jonas Brothers",
+            "email": "jonas@brothers.com",
+            "cpf": "79125491024"
+        },
+        "plan": {
+            "name": "Plano Smart",
+            "id": 1,
+            "price": 99.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Jonas Brothers",
+            "month": "12",
+            "year": "2030",
+            "cvv": "123"
+        }
+    },
+    "search": {
+        "account": {
+            "name": "Mariana da Silva",
+            "email": "mariana@silva.com",
+            "cpf": "58024312026"
+        },
+        "plan": {
+            "name": "Plano Smart",
+            "id": 1,
+            "price": 99.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Mariana da Silva",
+            "month": "12",
+            "year": "2030",
+            "cvv": "123"
+        }
+    },
+    "remove": {
+        "account": {
+            "name": "Felipe Albuquerque",
+            "email": "felipea@albuquerque.com",
+            "cpf": "97570665082"
+        },
+        "plan": {
+            "name": "Plano Smart",
+            "id": 2,
+            "price": 79.99
+        },
+        "credit_card": {
+            "number": "4242424242424242",
+            "holder": "Felipe Albuquerque",
+            "month": "12",
+            "year": "2030",
+            "cvv": "123"
+        }
+    }
+}
